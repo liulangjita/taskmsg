@@ -1,0 +1,8 @@
+E:\code\taskmsg\taskmsg\taskmsg\bin\Debug\taskmsg.exe
+E:\code\taskmsg\taskmsg\taskmsg\bin\Debug\taskmsg.pdb
+E:\code\taskmsg\taskmsg\taskmsg\obj\x86\Debug\taskmsg.csprojResolveAssemblyReference.cache
+E:\code\taskmsg\taskmsg\taskmsg\obj\x86\Debug\taskmsg.Form1.resources
+E:\code\taskmsg\taskmsg\taskmsg\obj\x86\Debug\taskmsg.Properties.Resources.resources
+E:\code\taskmsg\taskmsg\taskmsg\obj\x86\Debug\taskmsg.csproj.GenerateResource.Cache
+E:\code\taskmsg\taskmsg\taskmsg\obj\x86\Debug\taskmsg.exe
+E:\code\taskmsg\taskmsg\taskmsg\obj\x86\Debug\taskmsg.pdb
